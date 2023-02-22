@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="container">
+
+  <view style="text-align: center; color: #858585;">请输入关键字：</view>
+  <form bindsubmit="go2s">
+    <input name="keystr" type="text" size="40" maxlength="20" value="{{keystr}}" style="height: 30px; color:#ED3C05; border:1px solid"/>
+    <button form-type="submit">飞</button>
+  </form>
+  <view style="text-align: center; color: #858585;">查询结果</view>
+  <text>{{res}}</text>
+
+ 
+</view>

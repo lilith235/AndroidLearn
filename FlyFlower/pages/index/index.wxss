@@ -1,0 +1,10 @@
+/**index.wxss**/
+.container{
+  width: 750rpx;
+  height: 1270rpx;
+  background-image: url('https://7a78-zxx-cloud-4golphdi6140f16e-1311941279.tcb.qcloud.la/1652628785363.jpeg?sign=75520e0e1d465fb54c60473431f64151&t=1652628879');
+  background-size: 100% 100%;
+}
+.usermotto {
+  margin-top: 200px;
+}
